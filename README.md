@@ -1,5 +1,5 @@
-#Current Research
+Current Research
 
-#Education
+Education
 
-#Research Experience
+Research Experience
