@@ -6,9 +6,8 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 social:
-#- {icon: 'github', link: 'https://github.com/LeNPaul'}
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'bluesky', link: 'https://usky.app/profile/awanib.bsky.social'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Awani-Bapat-2'}
 - {icon: 'linkedin', link: 'https://at.linkedin.com/in/awani-bapat-94301941?trk=public_profile_browsemap'}
 
 contacts:
